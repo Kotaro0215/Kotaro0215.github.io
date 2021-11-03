@@ -1,0 +1,11 @@
+body {
+  background: white;
+  width: 60%;
+  margin:auto;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
